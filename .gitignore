@@ -1,0 +1,43 @@
+# Java 编译输出
+bin/
+*.class
+
+# JAR 包
+*.jar
+
+# 数据文件
+*.dat
+
+# 备份文件
+backup/
+
+# 输出目录
+output/
+out/
+
+# IDE 配置
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+*.log
+*.tmp
+
+# 项目生成文件
+EmployeeSystem.jar
+cfr.jar
+
+# 报告文件
+report_*.txt
+
+# CSV 导出
+*.csv
+
+# 其他
+TestTable.class
+TestTable.java
+ConsoleUI_bytecode.txt
+ConsoleUI_full.txt
+Main_full.txt
+task_progress.md

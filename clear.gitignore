@@ -1,0 +1,11 @@
+# 忽略编译产生的文件
+*.class
+*.jar
+out/
+output/
+bin/
+.vscode/
+# 忽略数据文件和日志
+*.csv
+*.txt
+*.dat
